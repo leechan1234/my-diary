@@ -11,7 +11,8 @@ import Editor from "./component/Editor.js/Editor";
 function App() {
   return (
     <div>
-      <Editor/>
+      hahahahahas
+      <Editor />
     </div>
     // <div className="App">
     //   <Routes>
